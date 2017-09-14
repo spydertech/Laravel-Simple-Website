@@ -25,8 +25,7 @@ Contact form submits data to mysql database and uses flash messaging for success
 </ul>
 
 <strong>Website Demo</strong>
-http://lukefilewalker.xyz/laravel/public/
-Main Website
 
-http://lukefilewalker.xyz/laravel/public/messages
-Unlinked back end page where form submissions from the database are viewed
+<p><a href="http://lukefilewalker.xyz/laravel/public/" target="_blank">Main Website</a></p>
+
+<p><a href="http://lukefilewalker.xyz/laravel/public/messages" target="_blank">Unlinked back end page where form submissions from the database are viewed</a></p>
