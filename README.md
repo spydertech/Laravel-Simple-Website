@@ -14,7 +14,7 @@
  <li>Responsive Bootstrap Design</li>
  </ul>
  
-<strong>Packages Used</strong>
+<strong>Components</strong>
 <ul>
 <li>Laravel 5.3</li>
 <li>Node.js</li>
